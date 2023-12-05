@@ -2,6 +2,6 @@
 ### 🔸 &nbsp;Gioco Memory con reset, timer, coppie trovate
 ## 🖥️ &nbsp;Tech Stack
 ### 
-- NextJs
+- Next.js
 ## 👇🏻 &nbsp;Anteprima
 ![Anteprima Immagine](anteprima.png)
